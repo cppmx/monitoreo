@@ -1,0 +1,4 @@
+node_modules/
+filebeat_ingest_data/
+logstash_ingest_data/
+*.log
