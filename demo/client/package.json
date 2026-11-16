@@ -36,5 +36,8 @@
     "extends": [
       "react-app"
     ]
+  },
+  "overrides": {
+    "webpack-dev-middleware": "7.4.6"
   }
 }
